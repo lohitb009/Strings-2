@@ -1,6 +1,6 @@
 '''
 Time Complexity: 0(needle) + 0(haystack)
-Space Complexity: O(needle)
+Space Complexity: O(needle) - should be O(1)
 Run on leetCode: Yes
 '''
 class Solution:
